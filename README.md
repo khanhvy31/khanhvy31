@@ -9,6 +9,8 @@ I am a data enthusiast with a strong analytical background and hands-on experien
 - Worked with Delta Airlines on Runway Configuration Prediction - Beat NASA Baseline!!! 🚀
 - Worked with Fox on customer clustering - Business Leader
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=khanhvy31)](https://github.com/ryo-ma/github-profile-trophy)
+
 🔭 I’m currently working on side projects such as GenAI
 👯 I’m looking to collaborate on NLP projects
 

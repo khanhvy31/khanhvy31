@@ -14,6 +14,9 @@ I am a data enthusiast with a strong analytical background and hands-on experien
 🔭 I’m currently working on side projects such as GenAI
 👯 I’m looking to collaborate on NLP projects
 
+💪 Let's streakkkkk
+[![GitHub Streak](https://streak-stats.demolab.com/?user=khanhvy31)](https://git.io/streak-stats)
+
 If you see I am a fit for your company or if you want to collaborate, let's schedule a coffee chat!! 
 Here is my email: khanhvy31@gmail.com
 

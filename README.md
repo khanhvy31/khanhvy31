@@ -2,7 +2,7 @@
 
 
 I am a data enthusiast with a strong analytical background and hands-on experience in Artificial Intelligence and data science. I graduated with a Master of Science in Engineering (MSE) in Data Science and Artificial Intelligence from the University of Pennsylvania. I am deeply motivated in challenges related to AI, Computer Vision, Large Language Models, machine learning and deep learning
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
 
 🏆 Achievement: 
 - Worked with Zillow on Traffic Forecasting - Technical Leader 

@@ -13,6 +13,7 @@ I am a data enthusiast with a strong analytical background and hands-on experien
 
 🔭 I’m currently working on side projects such as GenAI
 👯 I’m looking to collaborate on NLP projects
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/khanhvy31)
 
 💪 Let's streakkkkk
 

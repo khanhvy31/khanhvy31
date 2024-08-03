@@ -5,6 +5,8 @@ I am a data enthusiast with a strong analytical background and hands-on experien
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=61DAFB)
+	
 	
 
 🏆 Achievement: 
